@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Web Development</title>
+	</head>
+	
+	<body>
+		<i><h1>Welcome to BANAS Family!</i></h1>
+		<h2>We are!</h2>
+		<p>Chibanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/jibana.png" height="150"/>
+		<p>Jiabanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/Jiabana.jpg" height="200"/>
+		<p>Meowbanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/meowbana.jpg" height="200"/>
+		<p>Shabanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/shabana.jpg" height="200"/>
+		<p>Bobanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/bo.jpg" height="200"/>
+		<p>DaBianZhibanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/da.jpg" height="140"/>
+		<p>Guabanana!</p>
+		<img src="file:///C:/Users/PC/Desktop/gua.jpg" height="250"/>
+	</body>
+</html>
